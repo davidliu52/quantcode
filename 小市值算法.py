@@ -17,7 +17,7 @@ print(xtdata.data_dir)
 # 指定获取投研端数据(可不指定，默认优先连接投研)
 # xtdata.reconnect(port=58612)
 # xtdata.download_sector_data()
-
+#try
 class G():
     pass
 
